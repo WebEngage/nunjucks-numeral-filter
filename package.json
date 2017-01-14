@@ -1,0 +1,28 @@
+{
+  "name": "nunjucks-numeral-filter",
+  "version": "0.0.1",
+  "description": "A nunjucks filter for numeral.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebEngage/nunjucks-numeral-filter.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "filter",
+    "number",
+    "numeral"
+  ],
+  "author": "WebEngage",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/WebEngage/nunjucks-numeral-filter/issues"
+  },
+  "homepage": "https://github.com/WebEngage/nunjucks-numeral-filter#readme",
+  "dependencies": {
+    "numeral": "^2.0.4"
+  }
+}
